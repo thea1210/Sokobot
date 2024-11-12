@@ -1,7 +1,8 @@
 # Description
 This repository showcases a SOKOBOT, an artificial intelligence algorithm for a bot that plays Sokoban. Sokoban is a classic Japanese puzzle game. 
 It was created by Horiyuki Imabayashi and was first published by Thinking Rabbit in 1981. The name Sokoban (倉庫番) translates to “warehouse keeper”. 
-The game has been ported to numerous platforms, inspiring countless unofficial clones [Example](https://www.mathsisfun.com/games/sokoban.html). Sokoban is a grid-based puzzle game where players organize crates in a warehouse.
+It is a grid-based puzzle game where players organize crates in a warehouse.
+The game has been ported to numerous platforms, inspiring countless unofficial clones For [Example](https://www.mathsisfun.com/games/sokoban.html). 
 
 ## How to Run
 - Open terminal
