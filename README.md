@@ -2,7 +2,8 @@
 This repository showcases a SOKOBOT, an artificial intelligence algorithm for a bot that plays Sokoban. This is an MCO1 project for CSINTSY.
 Sokoban is a classic Japanese puzzle game where the player must push crates to target locations on a grid. 
 The game has been ported to numerous platforms, inspiring countless unofficial clones for [Example](https://www.mathsisfun.com/games/sokoban.html). 
-The game poses a challenge for automated solvers due to its large branching factor and dead-ends. This implementation uses the A* algorithm to solve the puzzles.
+The game poses a challenge for automated solvers due to its large branching factor and dead-ends. This project uses the A* algorithm to solve the puzzles.
+The project demonstrates the importance of state representation, good heuristic formulas, and strategic pruning in AI problem-solving. 
 
 ## How to Run
 - Open terminal
