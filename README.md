@@ -18,4 +18,4 @@ The game has been ported to numerous platforms, inspiring countless unofficial c
 
 Game screen Free Play mode. You may use your arrow keys to control the character.
 Press ESC to reset the initial configuration of the current map.
-Try running the program in Sokobot mode for the same map. Press the SPACE BAR to start the bot.
+In Sokobot mode, press the SPACE BAR to start the bot.
